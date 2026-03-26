@@ -1,0 +1,11 @@
+train: images/train
+val: images/val
+kpt_shape:
+- 2
+- 3
+names:
+  0: dart
+flip_idx:
+- 0
+- 1
+path: C:/Users/John/PycharmProjects/PythonProject/dataset-combined

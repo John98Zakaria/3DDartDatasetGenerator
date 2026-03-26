@@ -1,0 +1,8 @@
+train: images/train
+val: images/val
+kpt_shape:
+- 2
+- 3
+names:
+  0: dart
+path: C:\Users\John\PycharmProjects\PythonProject\screenshots
